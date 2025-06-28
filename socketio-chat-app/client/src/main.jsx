@@ -1,0 +1,1 @@
+// React app entry with Socket.io client setup
